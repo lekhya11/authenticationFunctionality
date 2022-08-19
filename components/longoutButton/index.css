@@ -1,0 +1,9 @@
+.button-container {
+  text-align: center;
+}
+
+.button {
+  border-radius: 5px;
+  padding: 10px;
+  background-image: linear-gradient(to right, pink, lightblue);
+}
