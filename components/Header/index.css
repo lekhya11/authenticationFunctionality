@@ -1,0 +1,18 @@
+.app-container {
+  text-align: center;
+}
+.nav-link {
+  color: lightcoral;
+  font-size: 30px;
+  margin: 10px;
+}
+.link-style {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.nav-link:hover {
+  color: blueviolet;
+}
