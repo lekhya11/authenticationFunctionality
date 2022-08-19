@@ -1,0 +1,16 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.login-heading {
+  font-family: cursive;
+  font-size: 50px;
+  color: chocolate;
+}
+.login-button {
+  border-radius: 5px;
+  padding: 10px;
+}
